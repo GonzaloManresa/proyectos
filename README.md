@@ -40,11 +40,6 @@ Esta solución centraliza toda la operación en una app móvil.
 <img width="963" height="546" alt="Captura de pantalla 2026-05-13 a la(s) 8 25 09 a  m" src="https://github.com/user-attachments/assets/638627e4-b9c0-4c22-820c-f8e80800aa2b" />
 <img width="962" height="546" alt="Captura de pantalla 2026-05-13 a la(s) 8 24 04 a  m" src="https://github.com/user-attachments/assets/94251bd3-f237-4eb0-8c65-38ee0c2eac0b" />
 
-## 🚀 Cómo ejecutar el proyecto
-1. Importar la solución `.zip` en un entorno de Power Apps
-2. Configurar las conexiones de Dataverse
-3. Activar los flujos de Power Automate
-
 ## 📌 Aprendizajes clave
 - Diseño de modelo de datos relacional en Dataverse
 - Automatización de procesos de negocio con Power Automate
