@@ -28,10 +28,7 @@ Esta solución centraliza toda la operación en una app móvil.
 - Generación de fecha de aviso al registrar un viaje nuevo
 
 ## 📱 Capturas
-<img width="962" height="541" alt="Captura de pantalla 2026-05-13 a la(s) 8 25 29 a  m" src="https://github.com/user-attachments/assets/f51b136b-d73f-426e-8baa-0342e51dc19b" />
-<img width="962" height="541" alt="Captura de pantalla 2026-05-13 a la(s) 8 25 20 a  m" src="https://github.com/user-attachments/assets/6f7617ba-ec6c-49b6-ab40-bb3f9dcec72c" />
-<img width="963" height="546" alt="Captura de pantalla 2026-05-13 a la(s) 8 25 09 a  m" src="https://github.com/user-attachments/assets/638627e4-b9c0-4c22-820c-f8e80800aa2b" />
-<img width="962" height="546" alt="Captura de pantalla 2026-05-13 a la(s) 8 24 04 a  m" src="https://github.com/user-attachments/assets/94251bd3-f237-4eb0-8c65-38ee0c2eac0b" />
+
 <img width="965" height="545" alt="Captura de pantalla 2026-05-13 a la(s) 8 22 45 a  m" src="https://github.com/user-attachments/assets/1d4b07db-73a1-404c-9019-f4aacdb2d6da" />
 <img width="1221" height="701" alt="Captura de pantalla 2026-05-13 a la(s) 8 21 23 a  m" src="https://github.com/user-attachments/assets/27e56058-5a39-4399-a497-9332d3725723" />
 <img width="1224" height="701" alt="Captura de pantalla 2026-05-13 a la(s) 8 21 00 a  m" src="https://github.com/user-attachments/assets/6cb4f98e-3017-4398-ab35-fa88697bbe6d" />
@@ -39,7 +36,10 @@ Esta solución centraliza toda la operación en una app móvil.
 <img width="1227" height="699" alt="Captura de pantalla 2026-05-13 a la(s) 8 20 34 a  m" src="https://github.com/user-attachments/assets/e584b469-9324-401e-94bc-599b7649b602" />
 <img width="1228" height="708" alt="Captura de pantalla 2026-05-13 a la(s) 8 20 22 a  m" src="https://github.com/user-attachments/assets/93e4f67b-5074-460a-9a21-f7cf58875278" />
 <img width="1280" height="832" alt="Captura de pantalla 2026-05-13 a la(s) 8 19 53 a  m" src="https://github.com/user-attachments/assets/a8556de7-a377-41c2-82a0-ec996395a72f" />
-
+<img width="962" height="541" alt="Captura de pantalla 2026-05-13 a la(s) 8 25 29 a  m" src="https://github.com/user-attachments/assets/f51b136b-d73f-426e-8baa-0342e51dc19b" />
+<img width="962" height="541" alt="Captura de pantalla 2026-05-13 a la(s) 8 25 20 a  m" src="https://github.com/user-attachments/assets/6f7617ba-ec6c-49b6-ab40-bb3f9dcec72c" />
+<img width="963" height="546" alt="Captura de pantalla 2026-05-13 a la(s) 8 25 09 a  m" src="https://github.com/user-attachments/assets/638627e4-b9c0-4c22-820c-f8e80800aa2b" />
+<img width="962" height="546" alt="Captura de pantalla 2026-05-13 a la(s) 8 24 04 a  m" src="https://github.com/user-attachments/assets/94251bd3-f237-4eb0-8c65-38ee0c2eac0b" />
 
 ## 🚀 Cómo ejecutar el proyecto
 1. Importar la solución `.zip` en un entorno de Power Apps
