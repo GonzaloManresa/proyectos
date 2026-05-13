@@ -35,7 +35,6 @@ Esta solución centraliza toda la operación en una app móvil.
 <img width="1225" height="706" alt="Captura de pantalla 2026-05-13 a la(s) 8 20 49 a  m" src="https://github.com/user-attachments/assets/d87fe519-7d74-47e1-bcad-d15bd9ff8c72" />
 <img width="1227" height="699" alt="Captura de pantalla 2026-05-13 a la(s) 8 20 34 a  m" src="https://github.com/user-attachments/assets/e584b469-9324-401e-94bc-599b7649b602" />
 <img width="1228" height="708" alt="Captura de pantalla 2026-05-13 a la(s) 8 20 22 a  m" src="https://github.com/user-attachments/assets/93e4f67b-5074-460a-9a21-f7cf58875278" />
-<img width="1280" height="832" alt="Captura de pantalla 2026-05-13 a la(s) 8 19 53 a  m" src="https://github.com/user-attachments/assets/a8556de7-a377-41c2-82a0-ec996395a72f" />
 <img width="962" height="541" alt="Captura de pantalla 2026-05-13 a la(s) 8 25 29 a  m" src="https://github.com/user-attachments/assets/f51b136b-d73f-426e-8baa-0342e51dc19b" />
 <img width="962" height="541" alt="Captura de pantalla 2026-05-13 a la(s) 8 25 20 a  m" src="https://github.com/user-attachments/assets/6f7617ba-ec6c-49b6-ab40-bb3f9dcec72c" />
 <img width="963" height="546" alt="Captura de pantalla 2026-05-13 a la(s) 8 25 09 a  m" src="https://github.com/user-attachments/assets/638627e4-b9c0-4c22-820c-f8e80800aa2b" />
